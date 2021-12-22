@@ -2,6 +2,7 @@
 Encoding=UTF-8
 Name=Cubes
 Exec=cubes
+Icon=${SNAP}/meta/gui/cubes.png
 Terminal=false
 StartupNotify=true
 StartupWMClass=Cubes.exe
