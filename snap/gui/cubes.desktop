@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Cubes
+Exec=cubes
+Terminal=false
+StartupNotify=true
+StartupWMClass=Cubes.exe
+Type=Application
+Categories=Application;Game;ArcadeGame;
