@@ -57,6 +57,7 @@ description: |
   special thanks must go to delphigl.com and the beta-testers of the game :)
 
 grade: stable
+icon: snap/gui/cubes.png
 
 base: core18
 confinement: strict
