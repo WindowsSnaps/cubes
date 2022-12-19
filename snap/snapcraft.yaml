@@ -75,6 +75,8 @@ apps:
     command: bin/sommelier run-exe
     environment:
       RUN_EXE: "$SNAP/meta/gui/Cubes.exe"
+    plugs:
+    - audio-playback
   wine:
     extensions: [ gnome-3-28 ]
     command: bin/sommelier run-exe
